@@ -1,4 +1,4 @@
-package com.algorithm.训练;
+package com.algorithm._lanqiaobei_蓝桥杯训练;
 
 import java.util.*;
 

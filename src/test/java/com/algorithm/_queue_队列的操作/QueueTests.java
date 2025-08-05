@@ -1,4 +1,4 @@
-package com.algorithm.队列;
+package com.algorithm._queue_队列的操作;
 
 import org.junit.jupiter.api.Test;
 import java.util.LinkedList;

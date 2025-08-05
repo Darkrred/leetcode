@@ -1,4 +1,4 @@
-package 最长公共子序列;
+package com.algorithm.最长公共子序列;
 
 import org.junit.jupiter.api.Test;
 

@@ -11,7 +11,7 @@ public class LengthOfLISTests {
     @Test
     void testLenthOfLIS() {
         Solution solution = new Solution();
-        int[] nums = new int[] {10,9,2,5,3,7,101,18};
+        int[] nums = new int[] { 10, 9, 2, 5, 3, 7, 101, 18 };
         assertEquals(4, solution.lengthOfLIS(nums));
     }
 
